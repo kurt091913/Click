@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1RsfqD32XEqKF6qGwLLEEWOW7nWeXL9SS0hzs3hma4OQH/G6SZf9QPgPdxq7gD6jyUQkHco7AJMzNLPMbXmopg==",
+  "dgSpecHash": "3NCwA+YvunbZEzrXXInq+68vFDymnKA/GoyB0U5M5GzHuMnWDGtjv62K9tAmPnWJnxMBu4/8AiZ3IeLwmvHbBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kurt\\source\\repos\\ClickOnce\\ClickOnce\\ClickOnce.vbproj",
+  "projectFilePath": "C:\\Users\\Kurt\\Documents\\SourceCode\\ClickOnce\\ClickOnce.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kurt\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Kurt\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
